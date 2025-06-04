@@ -1,1 +1,4 @@
-# Tugas-Pemrograman
+# Andi Tri Lestari
+
+
+Tugas-tugas Pemrograman
