@@ -1,3 +1,3 @@
 # Andi Tri Lestari
 ## Informasiii
-Tugas-tugas Pemrograman
+Untuk tugas-tugas Pemrograman
